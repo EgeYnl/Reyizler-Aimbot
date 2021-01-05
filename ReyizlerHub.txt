@@ -1,0 +1,9 @@
+--Arsenal
+if game.PlaceId == 286090429 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/EgeYnl/Reyizler-Hub-Arsenal/main/ReyizlerHubArsenal.txt'),true))()
+end
+
+--Tower Of Hell
+if game.PlaceId == 1962086868 then
+	loadstring(game:HttpGet(('https://raw.githubusercontent.com/EgeYnl/ReyizlerHub-ToH/main/ReyizlerHubToH.txt'),true))()
+end
